@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Notes App</string>
+    <string name="register">Register</string>
+    <string name="sing_in">Sign in</string>
+</resources>
